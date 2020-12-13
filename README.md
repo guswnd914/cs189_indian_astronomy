@@ -2,7 +2,7 @@
 
 **Team Members:**  Vikash Raja, Musa Jalis, Otto Kwon, Anika Rede
 
-This project allows to predict motions of astronomical objects using `Sūrya-siddhānta` planetary model date back to 500 CE integrating it with machine learning algorithm. 
+This project allows to predict motions of astronomical objects using `Sūrya-siddhānta` planetary model date back to 500 CE integrating it with machine learning algorithm such as fourier regression, curve-fit, and stochastic gradient boosting. 
 
 The model is subdivided into two categories : `Planetary Motion` and `Lunar Phases / Eclipses`.
 
