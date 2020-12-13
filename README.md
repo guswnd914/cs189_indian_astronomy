@@ -67,6 +67,16 @@ pip install -r required_packages.txt
    
   * `predict_eclipse.py`
     * data modelling <i>(lunar eclipise / phases)</i> script module.
-       - perform sinusoidal regression on 
-      
+    * perform sinusoidal regression on lunar illuminated portion.
+    * perform stochastic graident boosting and reduced subsample to 0.0099.
+  
+  * `predict_tool.py`
+    * activate `predict_eclipse.py` and `predict_epicycle.py:` and arrange both results tidy.
+    * save the prediction on `data` directory and save the evaluation on `evaluation` directory
+    
+  * `visualize.py`
+    * provide visualization functions and tools for epiciclycal motions and various cmap.
+  
+  * `predict.py`
+    * ultimate running compiler for all scripts.
       
